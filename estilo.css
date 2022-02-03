@@ -1,0 +1,47 @@
+#principal{
+    position: relative;
+    width:1200px; 
+    height:600px;
+    margin: auto;
+}
+  #corpo {
+     width:1200px;
+     height:550px;
+     position: absolute; 
+     background-color: #DDA0DD;
+}
+  #cx {
+    width:300px;
+    height:200px;
+    position: absolute; 
+    background-color: #DDA0DD;
+    top: 200px;
+    left: 450px;
+}
+   
+  #img{
+    width:400px;
+    height:500px;
+    position: absolute; 
+    top: 100px;
+    left: 400px;
+   
+}
+   
+  #button{
+    width: 50px;
+}
+   
+  h1{
+   
+    font-family: cursive;
+    background-color: #ffff;
+  }
+
+  #label{
+ 
+    font-family: cursive;
+    
+}
+   
+  
